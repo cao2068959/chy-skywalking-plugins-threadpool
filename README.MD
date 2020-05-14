@@ -51,7 +51,7 @@ mvn clean package -DskipTests -Dcheckstyle.skip=true
     }
 ```
 
-![e1](./image/1.png)
+![e1](https://img-blog.csdnimg.cn/20200514174520622.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTA5Mjg1ODk=,size_16,color_FFFFFF,t_70)
 
 从上面可以看出，`SwCallableWapper`就是我插件的`span`标识，并且多线程可以正常追踪
 
