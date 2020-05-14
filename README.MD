@@ -51,6 +51,8 @@ mvn clean package -DskipTests -Dcheckstyle.skip=true
     }
 ```
 
+![e1](https://github.com/cao2068959/chy-skywalking-plugins-threadpool/tree/master/image/1.png)
+
 从上面可以看出，`SwCallableWapper`就是我插件的`span`标识，并且多线程可以正常追踪
 
 # 4.实现原理
