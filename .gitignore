@@ -1,0 +1,6 @@
+# Project exclude paths
+/apm-agent/target/
+/apm-agent-core/target/
+/bootstrap-plugins/chy-threading-plugin/target/
+/bootstrap-plugins/target/
+/target/

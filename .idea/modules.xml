@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apm-agent/apm-agent.iml" filepath="$PROJECT_DIR$/apm-agent/apm-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apm-agent-core/apm-agent-core.iml" filepath="$PROJECT_DIR$/apm-agent-core/apm-agent-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootstrap-plugins/chy-threading-plugin/apm-chy-threading-plugin.iml" filepath="$PROJECT_DIR$/bootstrap-plugins/chy-threading-plugin/apm-chy-threading-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apm-sniffer.iml" filepath="$PROJECT_DIR$/apm-sniffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootstrap-plugins/bootstrap-plugins.iml" filepath="$PROJECT_DIR$/bootstrap-plugins/bootstrap-plugins.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="apm-chy-threading-plugin" />
+        <module name="apm-agent-core" />
+        <module name="apm-agent" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apm-agent" target="1.8" />
+      <module name="apm-agent-core" target="1.8" />
+      <module name="apm-chy-threading-plugin" target="1.8" />
+      <module name="apm-sniffer" target="1.8" />
+      <module name="bootstrap-plugins" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
